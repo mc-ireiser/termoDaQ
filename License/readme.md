@@ -1,6 +1,6 @@
-# termoDaQ
+# License
 
-termoDaQ by **Jesus Alfonso Rodriguez Lista**, is licensed under:
+**termoDaQ** by **Jesus Alfonso Rodriguez Lista**, is licensed under:
 
 ## Creative Commons Attribution-ShareAlike 4.0 International Public License
 
