@@ -18,4 +18,4 @@ All the source files are in this repository
 
 ## License
 
-Please go to the License section for more information. [Link]()
+Please go to the License section for more information. [Link](https://github.com/mc-ireiser/termoDaQ/tree/master/License)
