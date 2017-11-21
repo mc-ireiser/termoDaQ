@@ -12,7 +12,7 @@ The function of the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/A
 
 All the source files are in this repository
 
-- Size: 99.212 mm X 72.542 mm (X = 99.21, Y = 72.54)
+- Size: 99.212 mm X 72.542 mm (X = 99.21, Y = 72.54) with optional perforated panel
 - Outline contour: 342.90 mm
 - Number of drills: 518
 - Number of layers: 2
