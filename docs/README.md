@@ -41,3 +41,7 @@ Creative Commons Attribution-ShareAlike 4.0 International Public License
 Please go to the License section for more information. [Link](https://github.com/mc-ireiser/termoDaQ/tree/master/License)
 
 [![2D Render](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Translation
+
+English translation using google translator, If you wish, you can help me translate the readme file correctly.
