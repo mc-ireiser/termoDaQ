@@ -18,9 +18,9 @@ The first one consists of data acquisition in the study environment, these are d
 
 The second block of operation consists of transmitting the data to the computer using serial communication, to carry out this task is included a switch on the board that allows to select the mode of operation.
 
-## Software
+## Pinout
 
-The firmware for the board will be included in this repository, but anyone can develop their own code to adapt the operation to their needs. In addition to this, another project will be created to manage the data on the computer.
+![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
 
 ## Board specifications
 
@@ -34,6 +34,14 @@ All the source files are in this repository
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall%201.png?token=AJS2yk9sYgyW8VRVaAOB3iB2HLssfOGZks5aHcYYwA%3D%3D)
 
+## Software
+
+The firmware for the board will be included in this repository, but anyone can develop their own code to adapt the operation to their needs. In addition to this, another project will be created to manage the data on the computer.
+
+## Translation
+
+English translation using google translator, If you wish, you can help me translate the readme file correctly.
+
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
@@ -41,7 +49,3 @@ Creative Commons Attribution-ShareAlike 4.0 International Public License
 Please go to the License section for more information. [Link](https://github.com/mc-ireiser/termoDaQ/tree/master/License)
 
 [![2D Render](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-## Translation
-
-English translation using google translator, If you wish, you can help me translate the readme file correctly.
