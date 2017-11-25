@@ -6,4 +6,4 @@
 
 ## Overall
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall%201.png)
+![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall.png)
