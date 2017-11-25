@@ -51,6 +51,12 @@ All the source files are in this repository
 
 The firmware for the board will be included in this repository, but anyone can develop their own code to adapt the operation to their needs. In addition to this, another project will be created to manage the data on the computer.
 
+## Pending
+
+- Fabricate the board in PCB
+- Complete the firmware
+- Make the case
+
 ## Translation
 
 English translation using google translator, If you wish, you can help me translate the readme file correctly.
