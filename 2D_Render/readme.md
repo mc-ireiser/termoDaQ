@@ -1,6 +1,6 @@
 # 2D Render
 
-2D rendering from source files
+2D rendering from source files.
 
 ## Top
 
