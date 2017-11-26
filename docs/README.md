@@ -53,9 +53,13 @@ The firmware for the board will be included in this repository, but anyone can d
 
 ## Pending
 
-- Fabricate the board in PCB
+- Fabricate the board in PCB (in progress)
 - Complete the firmware
 - Make the case
+
+## Important update
+
+Today November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela
 
 ## Translation
 
