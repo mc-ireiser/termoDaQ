@@ -28,6 +28,8 @@ The second block of operation consists of transmitting the data to the computer 
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
 
+![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
+
 ## Board specifications
 
 All the source files are in this repository
@@ -43,9 +45,9 @@ All the source files are in this repository
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall.png)
 
-## 2D Render
+## PCB assembled
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
+![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/DSCF1042.JPG)
 
 ## Software
 
@@ -53,13 +55,17 @@ The firmware for the board will be included in this repository, but anyone can d
 
 ## Pending
 
-- Fabricate the board in PCB (in progress)
-- Complete the firmware
+- ~~Fabricate the board in PCB~~
+- Complete the firmware (in progress)
 - Make the case
 
 ## Important update
 
-Today November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela.
+- November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela.
+
+- January 17, 2018. Reception of package with the first 10 PCB boards from the factory in China.
+
+- January 18, 2018. Assembly and welding of components in the first plate, my main goal has been met, now termoDaQ is real :)
 
 ## Translation
 
