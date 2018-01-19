@@ -47,6 +47,10 @@ All the source files are in this repository
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
 
+## PCB assembled
+
+![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/DSCF1042.JPG)
+
 ## Software
 
 The firmware for the board will be included in this repository, but anyone can develop their own code to adapt the operation to their needs. In addition to this, another project will be created to manage the data on the computer.
