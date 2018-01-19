@@ -53,13 +53,17 @@ The firmware for the board will be included in this repository, but anyone can d
 
 ## Pending
 
-- Fabricate the board in PCB (in progress)
-- Complete the firmware
+- ~~Fabricate the board in PCB~~
+- Complete the firmware (in progress)
 - Make the case
 
 ## Important update
 
-Today November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela.
+- November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela.
+
+- January 17, 2018. Reception of package with the first 10 PCB boards from the factory in China.
+
+- January 18, 2018. Assembly and welding of components in the first plate, my main goal has been met, now termoDaQ is real :)
 
 ## Translation
 
