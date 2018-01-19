@@ -28,6 +28,8 @@ The second block of operation consists of transmitting the data to the computer 
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
 
+![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
+
 ## Board specifications
 
 All the source files are in this repository
@@ -42,10 +44,6 @@ All the source files are in this repository
 - Consumption: ~ 80mAh (currently under test)
 
 ![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall.png)
-
-## 2D Render
-
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
 
 ## PCB assembled
 
