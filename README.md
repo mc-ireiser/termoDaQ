@@ -74,6 +74,8 @@ The firmware for the board will be included in this repository, but anyone can d
 
 - January 18, 2018. Assembly and welding of components in the first plate, my main goal has been met, now termoDaQ is real :)
 
+- April 4, 2018 begins the process of manufacturing the second prototype in PCB with updates and corrections of the feedback applied.
+
 ## Translation
 
 English translation using google translator, If you wish, you can help me translate the readme file correctly.
