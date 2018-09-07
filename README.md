@@ -58,8 +58,10 @@ The firmware for the board will be included in this repository, but anyone can d
 ## Pending
 
 - ~~Test in breadboard~~
-- ~~First prototype in PCB~~ - (January 18, 2018)
-- ~~Feedback and modifications for the final circuit~~
+- ~~Fab: First prototype in PCB~~ - (November 26, 2017)
+- ~~Feedback and modifications~~
+- ~~Fab: Second prototype in PCB~~ - (Abril 4, 2018)
+- ~~Funcionality test~~
 - Final PCB circuit fabrication
 - Complete the firmware (in progress)
 - Print 3D case
