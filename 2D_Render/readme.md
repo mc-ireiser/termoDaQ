@@ -4,8 +4,8 @@
 
 ## Top
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
+![Top 2D Render img](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/termoDaQ_Top_2D-render.png)
 
 ## Bottom
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Bottom.png)
+![Bottom 2D Render img](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/termoDaQ_Bottom_2D-render.png)
