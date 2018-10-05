@@ -29,13 +29,50 @@ To carry out these tasks, a switch is included on the board that allows selectin
 All the source files are in this repository
 
 - Board Size: 99.82 mm X 73.41 mm (X = 99.82, Y = 73.41)
-- Area: 11.36 in2
 - Number of layers: 2
 - Number of drills: 311
 - Number of vias: 47
 - Number of signals: 146
 - Minimum copper trace width: 0.41 mm
 - Consumption: ~ 80mAh (currently under test)
+
+### ATtiny85
+
+|Name | Value |
+| ---------- | ---------- |
+|Operating Voltage Range (V) | 1.8 to 5.5 |
+|Temperature Range (C) | -40 to 85 |
+|CPU Speed (MIPS/DMIPS) | 20 |
+|Pin Count | 8 |
+|Program Memory Type | Flash |
+|Program Memory Size (KB) | 8 |
+|SRAM Bytes | 512 |
+|Data EEPROM/HEF (bytes) | 512 |
+|Digital Communication Peripherals | 1-SPI, 1-I2C |
+|Capture/Compare/PWM Peripherals | 5PWM |
+|Timers | 2 x 8-bit |
+|Number of Comparators | 1 |
+
+### ATmega328P
+
+| Goal | Date |
+| ---------- | ---------- |
+|Operating Supply Voltage | 1.8 V to 5.5 V |
+|Temperature Range (C) | - 40 to 85 |
+|Maximum Clock Frequency | 20 MHz |
+|Pin count | 28 |
+|Number of I/Os | 23 I/O |
+|Program Memory Type | Flash |
+|Program Memory Size | 32 kB |
+|Data Bus Width | 8 bit |
+|Data RAM Type | SRAM |
+|Data RAM Size | 2 kB |
+|Data ROM Type | EEPROM |
+|Data ROM Size | 1 kB |
+|Number of ADC Channels | 6 |
+|ADC Resolution | 10 bit |
+|Interface Type | I2C, SPI, USART |
+|Number of Timers/Counters | 3 Timer |
 
 ## Pinout
 
@@ -59,13 +96,15 @@ All the source files are in this repository
 
 - January 17, 2018. Reception of package with the first 10 PCB boards from the factory in China.
 
-- January 18, 2018. Assembly and welding of components in the first plate, my main goal has been met, now termoDaQ is real :)
+- January 18, 2018. Assembly and welding of components in the first board, my main goal has been met, now termoDaQ is real :)
 
 - April 4, 2018 begins the process of manufacturing the second prototype in PCB with updates and corrections of the feedback applied.
 
 ## Translation
 
-English translation using google translator, If you wish, you can help me translate the readme file correctly.
+English translation using google translator.
+
+If you wish, you can help me translate the readme file correctly.
 
 ## License
 
