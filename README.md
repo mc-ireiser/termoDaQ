@@ -2,11 +2,15 @@
 
 ![Header](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/termoDaQ_header.jpg)
 
-termoDaQ is a development board based on the [Arduino](https://www.arduino.cc/) architecture, uses an [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf) and an [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) for its operation, this board was originally designed to help the work of oceanography students, by serving as an instrument for the acquisition of physical variables (temperature, pressure) at surface level in bodies of fresh or salt water, in order to detect changes that may affect the flora or fauna of ecosystems, automating the work of making measurements over time.
+termoDaQ is a development board based on the [Arduino](https://www.arduino.cc/) architecture, uses an [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf) and an [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) for its operation.
 
-- But it can serve many purposes since it has a connection to a GPS receiver, pressure sensor, temperature sensors, and SD card.
+This board was originally designed to help the work of oceanography students, serving as an instrument for the acquisition of physical variables (temperature, pressure) at surface level in bodies of fresh water, in order to detect changes that may affect the flora or fauna of ecosystems, automating the work of making measurements over time.
 
-The function of the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) is work as a timer to program the operation cycles of the equipment, reducing the energy consumption.
+But it can serve many purposes since it has a connection for GPS receivers, pressure sensor, multiple temperature sensors (internal and external), two additional inputs for any analog sensor (such as rain, flow or UV) and SD card.
+
+The function of the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) is work as a timer to program the operation cycles of the equipment, reducing the energy consumption, which allows incrementing the operation time when the battery is used. To achieve this, activate and deactivate the sensors area.
+
+The function of the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf) is to control the sensors area, managing each of them to perform the measurement and data storage processes.
 
 ## Operation
 
