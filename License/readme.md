@@ -12,4 +12,6 @@
 
 ## Certified open source hardware
 
+Link: https://certification.oshwa.org/ve000001.html
+
 ![OSHWA UID VE000001](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/License/OSHWA.png)
