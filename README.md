@@ -55,7 +55,7 @@ All the source files are in this repository
 
 ### ATmega328P
 
-| Goal | Date |
+| Name | Value |
 | ---------- | ---------- |
 |Operating Supply Voltage | 1.8 V to 5.5 V |
 |Temperature Range (C) | - 40 to 85 |
