@@ -1,6 +1,6 @@
 # termoDaQ
 
-![3D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/3D_Render/3D_Render.png)
+![Header](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/termoDaQ_header.jpg)
 
 termoDaQ is a development board based on the [Arduino](https://www.arduino.cc/) architecture, uses an [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf) and an [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) for its operation, this board was originally designed to help the work of oceanography students, by serving as an instrument for the acquisition of physical variables (temperature, pressure) at surface level in bodies of fresh or salt water, in order to detect changes that may affect the flora or fauna of ecosystems, automating the work of making measurements over time.
 
@@ -20,10 +20,6 @@ The second block of operation consists of stopping the acquisition and transmitt
 
 To carry out these tasks, a switch is included on the board that allows selecting the operating mode.
 
-## Pinout
-
-![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
-
 ## Board specifications
 
 All the source files are in this repository
@@ -37,13 +33,9 @@ All the source files are in this repository
 - Minimum copper trace width: 0.41 mm
 - Consumption: ~ 80mAh (currently under test)
 
-## PCB assembled
+## Pinout
 
-![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/termoDaQ.jpg)
-
-## Software
-
-The firmware for the board will be included in this repository, but anyone can develop their own code to adapt the operation to their needs.
+![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
 
 ## Pending
 
