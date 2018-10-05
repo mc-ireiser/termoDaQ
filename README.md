@@ -24,6 +24,10 @@ The second block of operation consists of stopping the acquisition and transmitt
 
 To carry out these tasks, a switch is included on the board that allows selecting the operating mode.
 
+## Pinout
+
+![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/termoDaQ_Pinout.png)
+
 ## Board specifications
 
 All the source files are in this repository
@@ -75,10 +79,6 @@ All the source files are in this repository
 |ADC Resolution | 10 bit |
 |Interface Type | I2C, SPI, USART |
 |Number of Timers/Counters | 3 Timer |
-
-## Pinout
-
-![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/termoDaQ_Pinout.png)
 
 ## Translation
 
