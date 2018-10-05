@@ -1,72 +1,81 @@
-Partlist Assembly variant: 
+Partlist
 
-Part     Value          Package                    Library                     Position (mm)         Orientation
+Exported from termoDaQ.brd
 
-C1       22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (2.54 52.07)          R0
-C2       22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (26.67 40.64)         R0
-C3       22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (2.54 45.72)          R0
-C4       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (26.67 34.29)         R90
-C5       22pF           CAP-PTH-2.54               SparkFun-Capacitors         (26.67 13.97)         R0
-C6       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (19.05 19.05)         R0
-C7       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (24.13 34.29)         R270
-C8       22pF           CAP-PTH-2.54               SparkFun-Capacitors         (31.75 13.97)         R180
-C9       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (11.43 8.89)          R180
-C10      22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (49.53 11.43)         R180
-C11      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (21.59 34.29)         R90
-C12      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (16.51 38.1)          R180
-C13      22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (11.43 46.99)         R270
-C14      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (29.21 2.54)          R0
-C15      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (40.64 55.88)         R90
-C16      22pF           CAP-PTH-2.54               SparkFun-Capacitors         (35.56 54.61)         R0
-C17      22pF           CAP-PTH-2.54               SparkFun-Capacitors         (17.78 54.61)         R180
-C18      22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (58.42 59.69)         R270
-C19      22uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (58.42 53.34)         R90
-D1       PROG           LED_5MM                    SparkFun-LED                (30.48 46.99)         R90
-D2       PPS            LED_5MM                    SparkFun-LED                (45.72 5.08)          R270
-D3       ERROR          LED_5MM                    SparkFun-LED                (49.53 30.48)         R0
-D4       ON             LED_5MM                    SparkFun-LED                (5.08 63.5)           R90
-J1       TEST SUPPLY    1X02                       SparkFun-Connectors         (3.81 57.15)          R180
-J2       ADC            1X05                       SparkFun-Connectors         (17.78 34.29)         R180
-J3       GPS            1X06                       SparkFun-Connectors         (45.72 10.16)         R90
-J4       SERIAL         1X06                       SparkFun-Connectors         (7.62 12.7)           R0
-J5       GPS ON/OF      1X03                       SparkFun-Connectors         (39.37 12.7)          R90
-J6       INT            1X01                       SparkFun-Connectors         (1.27 19.05)          R0
-J7       MPX            1X06                       SparkFun-Connectors         (20.32 40.64)         R180
-J8       SD             1X07                       SparkFun-Connectors         (48.26 38.1)          R180
-J9       EN             1X01                       SparkFun-Connectors         (15.24 63.5)          R180
-J10      POTENTIOMETER  2X3                        SparkFun-Connectors         (45.72 67.31)         R270
-J11      SUPPLY         1X02                       SparkFun-Connectors         (40.64 60.96)         R180
-J12      SUPPLY         SCREWTERMINAL-3.5MM-2      SparkFun-Connectors         (46.99 54.61)         R90
-J13      V+             1X02                       SparkFun-Connectors         (57.15 21.59)         R270
-J14      B+             1X02                       SparkFun-Connectors         (59.69 46.99)         R270
-J15      VCC            1X02                       SparkFun-Connectors         (57.15 44.45)         R90
-J16      V-             1X02                       SparkFun-Connectors         (69.85 21.59)         R270
-J17      B-             1X02                       SparkFun-Connectors         (67.31 44.45)         R90
-J18      GND            1X02                       SparkFun-Connectors         (69.85 46.99)         R270
-J19      SUPPLY         SCREWTERMINAL-5MM-2        SparkFun-Connectors         (60.96 10.16)         R0
-J20      VCC            1X01                       SparkFun-Connectors         (64.77 59.69)         R0
-J21      CONN_26X2      2X26                       SparkFun-Connectors         (76.2 55.88)          R270
-J22      CONN_26X2      2X26                       SparkFun-Connectors         (81.28 55.88)         R270
-J23      CONN_26X2      2X26                       SparkFun-Connectors         (86.36 55.88)         R270
-J24      CONN_20X2      2X20                       SparkFun-Connectors         (91.44 57.15)         R270
-J25      FEMALE 2x3     2X3                        SparkFun-Connectors         (64.77 53.34)         R0
-R1       10k            AXIAL-0.3                  SparkFun-Resistors          (3.81 26.67)          R90
-R2       330            AXIAL-0.3                  SparkFun-Resistors          (20.32 46.99)         R180.5
-R3       330            AXIAL-0.3                  SparkFun-Resistors          (45.72 1.27)          R180
-R4       330            AXIAL-0.3                  SparkFun-Resistors          (1.27 26.67)          R90
-R5       330            AXIAL-0.3                  SparkFun-Resistors          (50.8 21.59)          R270
-R6       1k             AXIAL-0.3                  SparkFun-Resistors          (24.13 5.08)          R90
-R7       1k             AXIAL-0.3                  SparkFun-Resistors          (39.37 6.35)          R270
-R8       4.7k           AXIAL-0.3                  SparkFun-Resistors          (29.21 11.43)         R180
-R9       330            AXIAL-0.3                  SparkFun-Resistors          (5.08 68.58)          R180
-R10      4.7k           AXIAL-0.3                  SparkFun-Resistors          (34.29 63.5)          R270
-R11      1k             AXIAL-0.3                  SparkFun-Resistors          (19.05 63.5)          R90
-S1       RESET          TACTILE_SWITCH_PTH_6.0MM   SparkFun-Switches           (3.81 5.08)           R270
-S2       STREAM         SWITCH_SPDT_PTH_11.6X4.0MM SparkFun-Switches           (16.51 2.54)          R90
-S3       ON/OFF         SWITCH_SPDT_PTH_11.6X4.0MM SparkFun-Switches           (64.77 66.04)         R90
-T1       2N2222         TO92-EBC-OVAL              adafruit                    (11.43 60.96)         R0
-U1       328P           DIP28                      SparkFun-IC-Microcontroller (24.13 26.67)         R0
-U2       DS18B20        TO-92-AMMO                 SparkFun-Sensors            (29.21 6.35)          R180
-U3       TINY85-20-DIP  DIP08_MCU                  SparkFun-Retired            (26.67 63.5)          R0
-Y1       16MHz          HC49US                     SparkFun-Clocks             (29.21 17.78)         R0
-Y2       16MHz          HC49US                     SparkFun-Clocks             (26.67 55.88)         R180
+EAGLE Version 9.1.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package                    Library                     Position (inch)       Orientation
+
+C1       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.8 2.8)             R0
+C2       10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (2.8 2.75)            R180
+C3       10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (1.6 2.6)             R90
+C4       10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (2.25 2.5)            R0
+C5       22pF           CAP-PTH-2.54               SparkFun-Capacitors         (1.05 2.4)            R0
+C6       22pF           CAP-PTH-2.54               SparkFun-Capacitors         (1.25 2.4)            R0
+C7       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.35 2.3)            R180
+C8       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.85 2.3)            R0
+C9       0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (1.85 2.25)           R0
+C10      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.35 2.2)            R180
+C11      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.85 2.2)            R0
+C12      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (0.2 2.15)            R0
+C13      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.6 2.05)            R0
+C14      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.4 1.95)            R90
+C15      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (0.6 1.95)            R270
+C16      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.6 1.95)            R0
+C17      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (0.2 1.9)             R0
+C18      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (1.15 1.7)            R0
+C19      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.755 1.58)          R180
+C20      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.95 1.45)           R90
+C21      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (1.05 1.45)           R270
+C22      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (1.15 1.45)           R90
+C23      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.95 0.9)            R0
+C24      22pF           CAP-PTH-2.54               SparkFun-Capacitors         (1.15 0.9)            R0
+C25      22pF           CAP-PTH-2.54               SparkFun-Capacitors         (1.35 0.9)            R180
+C26      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (0.7 0.85)            R270
+C27      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (3 0.75)              R180
+C28      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (2.75 0.6)            R0
+C29      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (3.045 0.6)           R180
+C30      10uF           CPOL-RADIAL-2.5MM-5MM      SparkFun-Capacitors         (2.05 0.55)           R180
+C31      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (3.5 0.55)            R0
+C32      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (0.55 0.45)           R180
+C33      0.1uF          CAP-PTH-SMALL-KIT          SparkFun-Capacitors         (1.2 0.2)             R0
+D1       ON             LED_5MM                    SparkFun-LED                (0.28 2.75)           R270
+D2       POWER          LED_3MM                    SparkFun-LED                (1.55 2.4)            R270
+D3       PROG           LED_5MM                    SparkFun-LED                (1.3 1.95)            R90
+D4       ERROR          LED_5MM                    SparkFun-LED                (2.05 1.3)            R0
+D5       PPS            LED_5MM                    SparkFun-LED                (1.85 0.3)            R270
+J1       JUMPER EN      1X03                       SparkFun-Connectors         (1.5 2.8)             R0
+J4       BETERIA        1X02                       SparkFun-Connectors         (3 2.75)              R270
+J7       TEST SUPPLY    1X02                       SparkFun-Connectors         (0.25 2.35)           R180
+J10      LED ON/OFF     1X03                       SparkFun-Connectors         (1.45 2.25)           R0
+J11      SUPPLY         1X02                       SparkFun-Connectors         (2.1 2.25)            R90
+J22      I2C            1X04                       SparkFun-Connectors         (0.2 1.4)             R90
+J26      OK             1X03                       SparkFun-Connectors         (1.8 0.9)             R90
+J30      SERIAL         1X06                       SparkFun-Connectors         (0.4 0.6)             R0
+J31      GPS ON/OF      1X03                       SparkFun-Connectors         (1.55 0.6)            R0
+J33      TERMINAL SONDA SCREWTERMINAL-5MM-3        SparkFun-Connectors         (3.5 0.35)            R180
+R1       330            AXIAL-0.3                  SparkFun-Resistors          (0.28 2.6)            R180
+R2       1k             AXIAL-0.3                  SparkFun-Resistors          (1.4 2.5)             R270
+R3       1k             AXIAL-0.3                  SparkFun-Resistors          (0.85 2.35)           R90
+R4       330            AXIAL-0.3                  SparkFun-Resistors          (1.85 2.35)           R0
+R5       330            AXIAL-0.3                  SparkFun-Resistors          (0.95 2)              R180
+R6       330            AXIAL-0.3                  SparkFun-Resistors          (0.15 1.15)           R90
+R7       10k            AXIAL-0.3                  SparkFun-Resistors          (0.25 1.15)           R90
+R8       330            AXIAL-0.3                  SparkFun-Resistors          (2.1 1)               R270
+R9       1k             AXIAL-0.3                  SparkFun-Resistors          (1.25 0.6)            R180
+R10      1k             AXIAL-0.3                  SparkFun-Resistors          (1.05 0.3)            R90
+R11      1k             AXIAL-0.3                  SparkFun-Resistors          (1.6 0.35)            R270
+R12      330            AXIAL-0.3                  SparkFun-Resistors          (1.85 0.15)           R180
+S1       ON/OFF         SWITCH_SPDT_PTH_11.6X4.0MM SparkFun-Switches           (2.45 2.75)           R90
+S2       ON/OFF         SWITCH_SPDT_PTH_11.6X4.0MM SparkFun-Switches           (3.4 0.85)            R270
+S3       RESET          TACTILE_SWITCH_PTH_6.0MM   SparkFun-Switches           (0.25 0.3)            R270
+S4       STREAM         SWITCH_SPDT_PTH_11.6X4.0MM SparkFun-Switches           (0.75 0.2)            R90
+T1       2N2222         TO92-EBC-OVAL              adafruit                    (0.55 2.5)            R0
+TX       TX             SMD1,27-2,54               wirepad                     (1.65 0.8)            R270
+U1       TINY85-20-DIP  DIP08_MCU                  SparkFun-Retired            (1.15 2.65)           R0
+U2       328P           DIP28                      SparkFun-IC-Microcontroller (1.05 1.15)           R0
+U3       DS18B20        TO-92-AMMO                 SparkFun-Sensors            (1.25 0.4)            R180
+Y1       16MHz          HC49US                     SparkFun-Clocks             (1.15 2.25)           R0
+Y2       16MHz          HC49US                     SparkFun-Clocks             (1.25 0.75)           R0
