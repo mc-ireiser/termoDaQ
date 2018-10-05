@@ -20,7 +20,7 @@ The function of the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/A
 
 The first involves the acquisition of data in the study environment; these are date, time, latitude, longitude, pressure, and temperature in each working cycle interval, for example, every 10 minutes (the user defines the interval time) and stores the information, the duration of the interval is modified with a potentiometer connected to [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) which has the task of activating and deactivating the sensor area managed by the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf).
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/docs/img/Mockup.png)
+![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/docs/img/Mockup.png)
 
 The second block of operation consists of stopping the acquisition and transmitting the data to the computer through serial communication.
 
@@ -28,9 +28,7 @@ To carry out these tasks, a switch is included on the board that allows selectin
 
 ## Pinout
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
-
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/HQ_Top.png)
+![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Pinout.png)
 
 ## Board specifications
 
@@ -45,8 +43,6 @@ All the source files are in this repository
 - Minimum trace width: 0.076 mm
 - Consumption: ~ 80mAh (currently under test)
 
-![2D Render](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Overall.png)
-
 ## PCB assembled
 
 ![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/DSCF1042.JPG)
@@ -57,14 +53,15 @@ The firmware for the board will be included in this repository, but anyone can d
 
 ## Pending
 
-- ~~Test in breadboard~~
-- ~~Fab: First prototype in PCB~~ - (November 26, 2017)
-- ~~Feedback and modifications~~
-- ~~Fab: Second prototype in PCB~~ - (Abril 4, 2018)
-- ~~Funcionality test~~
-- Final PCB circuit fabrication
-- Complete the firmware (in progress)
-- Print 3D case
+| Goal | Date |
+| ---------- | ---------- |
+| ~~Full test in breadboard~~   | November 11, 2017   |
+| ~~FAB: First prototype in PCB~~   | November 26, 2017   |
+|~~Feedback and modifications~~| February to March, 2018 |
+|~~Fab: Second prototype in PCB~~| Abril 4, 2018 |
+|~~Funcionality test~~| May to June, 2018 |
+|FAB: Final PCB circuit| N/A |
+|~~Print first 3D case~~| February 28 to March 9, 2018 |
 
 ## Important update
 
