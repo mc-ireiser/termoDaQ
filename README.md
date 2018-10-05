@@ -80,28 +80,6 @@ All the source files are in this repository
 
 ![Pinout](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/termoDaQ_Pinout.png)
 
-## Pending
-
-| Goal | Date |
-| ---------- | ---------- |
-| ~~Full test in breadboard~~   | November 11, 2017   |
-| ~~FAB: First prototype in PCB~~   | November 26, 2017   |
-|~~Feedback and modifications~~| February to March, 2018 |
-|~~Fab: Second prototype in PCB~~| Abril 4, 2018 |
-|~~Funcionality test~~| May to June, 2018 |
-|FAB: Final PCB circuit| N/A |
-|~~Print first 3D case~~| February 28 to March 9, 2018 |
-
-## Important update
-
-- November 26, 2017, I start the manufacturing process in PCB, the gerber files were sent to the factory, the process lasts 5 working days and then wait for the shipment to Venezuela.
-
-- January 17, 2018. Reception of package with the first 10 PCB boards from the factory in China.
-
-- January 18, 2018. Assembly and welding of components in the first board, my main goal has been met, now termoDaQ is real :)
-
-- April 4, 2018 begins the process of manufacturing the second prototype in PCB with updates and corrections of the feedback applied.
-
 ## Translation
 
 English translation using google translator.
