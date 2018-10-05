@@ -1,6 +1,6 @@
 # Attention
 
-The firmware is beginning the development process.
+The firmware is under development.
 
 All sensors were tested and work properly. [Picture](https://github.com/mc-ireiser/termoDaQ/blob/master/Photographs/termoDaQ.jpg).
 
