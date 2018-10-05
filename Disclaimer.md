@@ -2,7 +2,7 @@
 
 Last updated: October 05, 2018
 
-(the "Service", files contained on this page)
+(the "Service", files contained on https://github.com/mc-ireiser/termoDaQ)
 
 Jesus Rodriguez assumes no responsibility for errors or omissions in the contents on the Service.
 
