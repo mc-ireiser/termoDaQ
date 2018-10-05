@@ -39,7 +39,7 @@ All the source files are in this repository
 
 ## PCB assembled
 
-![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/termoDaQ.JPG)
+![Photo](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/Photographs/termoDaQ.jpg)
 
 ## Software
 
