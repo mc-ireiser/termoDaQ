@@ -36,6 +36,8 @@ All the source files are in this repository
 - Minimum copper trace width: 0.41 mm
 - Consumption: ~ 80mAh (currently under test)
 
+![Overall](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/2D_Render/termoDaQ_Overall.png)
+
 ### ATtiny85
 
 |Name | Value |

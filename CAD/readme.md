@@ -7,7 +7,7 @@ These files are licensed under: Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## Schematics
 
-![Schematics img](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/CAD/termoDaQ_sch.png)
+![Schematics](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/CAD/termoDaQ_sch.png)
 
 ## Disclaimer
 
