@@ -20,7 +20,7 @@ The function of the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/A
 
 The first involves the acquisition of data in the study environment; these are date, time, latitude, longitude, pressure, and temperature in each working cycle interval, for example, every 10 minutes (the user defines the interval time) and stores the information, the duration of the interval is modified with a potentiometer connected to [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) which has the task of activating and deactivating the sensor area managed by the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf).
 
-![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/docs/img/Mockup.png)
+![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Mockup.png)
 
 The second block of operation consists of stopping the acquisition and transmitting the data to the computer through serial communication.
 
