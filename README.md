@@ -14,15 +14,19 @@ The function of the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDo
 
 ## Operation
 
-- The board works under two operating blocks.
+The board is divided into three parts
 
-The first involves the acquisition of data in the study environment; these are date, time, latitude, longitude, pressure, and temperature in each working cycle interval, for example, every 10 minutes (the user defines the interval time) and stores the information, the duration of the interval is modified with a potentiometer connected to [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) which has the task of activating and deactivating the sensor area managed by the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Summary.pdf).
+1) Power supply.
+2) Energy management.
+3) Sensors area.
+
+In particular, I'm responsible for developing the energy management and the sensors area.
+
+For the energy management, is used the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) microcontroller to carry out cycles that enable or disable the sensors, cutting off the power in periods where no measurements are needed.
+
+As for the sensors area, its function is to perform the measurements and store the data. Only one cycle at a time, at the end one signal is sent to the energy management area to cut the power.
 
 ![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Mockup.png)
-
-The second block of operation consists of stopping the acquisition and transmitting the data to the computer through serial communication.
-
-To carry out these tasks, a switch is included on the board that allows selecting the operating mode.
 
 ## Pinout
 
