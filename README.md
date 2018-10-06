@@ -14,6 +14,8 @@ The function of the [ATmega328-P](http://ww1.microchip.com/downloads/en/DeviceDo
 
 ## Operation
 
+![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Mockup.png)
+
 The board is divided into three parts
 
 1) Power supply.
@@ -25,8 +27,6 @@ In particular, I'm responsible for developing the energy management and the sens
 For the energy management, is used the [ATtiny85](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf) microcontroller to carry out cycles that enable or disable the sensors, cutting off the power in periods where no measurements are needed.
 
 As for the sensors area, its function is to perform the measurements and store the data. Only one cycle at a time, at the end one signal is sent to the energy management area to cut the power.
-
-![Operation](https://raw.githubusercontent.com/mc-ireiser/termoDaQ/master/IMG/Mockup.png)
 
 ## Pinout
 
